@@ -1,0 +1,7 @@
+function hash {
+
+}
+
+function createBlock {
+  
+}
